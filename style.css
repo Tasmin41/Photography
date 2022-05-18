@@ -1,0 +1,85 @@
+/*Common CSS*/
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.area{
+	max-width:1000px;
+	margin:0 auto;
+	box-shadow:3px 5px 5px 5px #888888;
+	
+}
+/*header css*/
+.header {
+	overflow:hidden;	
+}
+.logo-name {
+	float: left;
+	width:500px;
+	height:497px;
+}
+.logo-name h1 {
+	text-align: center;
+	font-size: 50px;
+	margin-top: 150px;
+}
+.logo-name p {
+	opacity: 0.5;
+	text-align: center;
+}
+.opacity {
+	margin-top: 60px;
+	
+	padding: 20px;
+	margin-left: 200px;
+}
+.logo-img {
+	float: right;
+	width: 450px;
+}
+	
+.logo-img img {
+	height: 500px;
+	/* padding: ; */
+	width: 100%;
+	border: 3px solid black;
+}
+.banner {
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding:20px;
+}
+.banner h3 {
+	font-size: 26px;
+}
+.first-img{
+}
+.first-img img {
+	width: 100%;
+}
+.first-type {
+	text-align: center;
+	
+}
+.first-type h3 {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.first-type p {
+	margin-bottom: 20px;
+}
+.footer{
+	max-width:1000px;
+	margin:0 auto;
+	text-align:center;
+	margin-top:20px;
+	margin-bottom:20px;
+	
+}
+.footer a{
+	text-decoration:none;
+	color:black;
+}
+
